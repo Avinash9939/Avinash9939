@@ -31,29 +31,40 @@
 </a>
 
 </p>
-## 🛠 Tech Stack
+## 🧠 Who Am I?
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github" />
-</p>
+avinash = {
+    "name" : "Avinash Verma",
+    "based_in" : "Bihar, India 🇮🇳",
+    "education" : "B.Tech CSE (Data Science) - LPU",
+    
+    "roles" : [
+        "Data Science Student",
+        "Aspiring Data Analyst",
+        "Machine Learning Enthusiast"
+    ],
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-</p>
+    "tools" : {
+        "languages" : ["Python", "SQL", "C++"],
+        "bi" : ["Power BI", "Excel"],
+        "ml" : ["Scikit-Learn", "Pandas", "NumPy"],
+        "ai" : ["Machine Learning", "Data Analytics"],
+        "databases" : ["MySQL"]
+    },
 
-## 🚀 About Me
+    "projects" : [
+        "Customer Churn Prediction",
+        "AI Resume Screening & ATS Analyzer",
+        "Sales Analytics Dashboard",
+        "Movie Recommendation System"
+    ],
 
-🎓 B.Tech CSE (Data Science) at LPU
+    "leetcode" : "180+ Problems Solved 🔥",
+    "badge" : "100 Days Badge 2026 🏆",
 
-📊 Passionate about Data Analytics, Machine Learning & AI
+    "status" : "🟢 Open to Opportunities"
+}
 
-💻 Currently learning Python, SQL, Power BI and ML
-
-🌱 Building real-world Data Science Projects
-
----
 ## 🛠 Tech Stack
 
 <p align="center">
