@@ -33,37 +33,31 @@
 </p>
 ## 🧠 Who Am I?
 
+## 🧠 Who Am I?
+
 avinash = {
-    "name" : "Avinash Verma",
-    "based_in" : "Bihar, India 🇮🇳",
-    "education" : "B.Tech CSE (Data Science) - LPU",
-    
-    "roles" : [
+    "name": "Avinash Verma",
+    "based_in": "Bihar, India 🇮🇳",
+    "education": "B.Tech CSE (Data Science) - LPU",
+
+    "roles": [
         "Data Science Student",
         "Aspiring Data Analyst",
         "Machine Learning Enthusiast"
     ],
 
-    "tools" : {
-        "languages" : ["Python", "SQL", "C++"],
-        "bi" : ["Power BI", "Excel"],
-        "ml" : ["Scikit-Learn", "Pandas", "NumPy"],
-        "ai" : ["Machine Learning", "Data Analytics"],
-        "databases" : ["MySQL"]
+    "tools": {
+        "languages": ["Python", "SQL", "C++"],
+        "bi": ["Power BI", "Excel"],
+        "ml": ["Scikit-Learn", "Pandas", "NumPy"],
+        "databases": ["MySQL"]
     },
 
-    "projects" : [
-        "Customer Churn Prediction",
-        "AI Resume Screening & ATS Analyzer",
-        "Sales Analytics Dashboard",
-        "Movie Recommendation System"
-    ],
-
-    "leetcode" : "180+ Problems Solved 🔥",
-    "badge" : "100 Days Badge 2026 🏆",
-
-    "status" : "🟢 Open to Opportunities"
+    "leetcode": "180+ Problems Solved 🔥",
+    "status": "🟢 Open to Opportunities"
 }
+
+
 
 ## 🛠 Tech Stack
 
@@ -132,4 +126,4 @@ Power BI | Excel | Git | GitHub | Jupyter Notebook
 
 💼 LinkedIn: https://www.linkedin.com/in/avinashverma108/
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: Coming Soon sahi h n pura
