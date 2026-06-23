@@ -72,9 +72,13 @@ Power BI | Excel | Git | GitHub | Jupyter Notebook
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight)
 
 ---
-## 🏆 LeetCode Profile
+## 🏆 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma)](https://leetcode.com/u/5dy9SXIeMk/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma&ext=heatmap)
+
+🔥 180+ Problems Solved  
+🏅 100 Days Badge 2026  
+⚡ Max Streak: 85 Days
 
 ## 📫 Connect With Me
 
