@@ -1,16 +1,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:7c3aed&text=AVINASH%20VERMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
-<div align="center">
 
-<h3>Data Science Student • Aspiring Data Analyst • Machine Learning Enthusiast</h3>
+<p align="center">
+Data Science Student • Aspiring Data Analyst • Machine Learning Enthusiast
+</p>
 
-🚀 <b>Turning Data Into Actionable Insights</b>
+<p align="center">
+🚀 Turning Data Into Actionable Insights
+</p>
 
-<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge)
-
+<p align="center">
 <a href="https://www.linkedin.com/in/avinashverma108/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -18,8 +22,9 @@
 <a href="mailto:akkumar1082004@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-</div>
+---
 ## 🛠 Tech Stack
 
 <p align="center">
