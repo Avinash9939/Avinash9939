@@ -145,12 +145,12 @@ avinash = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Avinash9939&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avinash9939&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
 ## 🏆 LeetCode Journey
 
 <p align="center">
@@ -163,8 +163,14 @@ avinash = {
 
 <img src="https://img.shields.io/badge/MAX%20STREAK-85%20DAYS-FF6D00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/BADGE-100%20DAYS%202026-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/100%20DAYS%20BADGE%202026-7C3AED?style=for-the-badge"/>
 
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/EASY-69-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MEDIUM-83-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HARD-28-red?style=for-the-badge"/>
 </p>
 ## 📫 Connect With Me
 
