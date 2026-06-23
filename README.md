@@ -1,12 +1,44 @@
-![](https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet)
-<h1 align="center">Hi 👋, I'm Avinash Verma</h1>
-<h3 align="center">Data Analyst | Data Scientist | AI Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Science+Student;Python+Developer;Power+BI+Learner;Machine+Learning+Enthusiast" />
-</p>
+# AVINASH VERMA
+
+### Data Science Student • Data Analyst • Machine Learning Enthusiast
+
+<br>
+
+🚀 **Turning Data Into Actionable Insights**
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge)
+
+<a href="https://www.linkedin.com/in/avinashverma108/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:akkumar1082004@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Avinash9939">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+</p>
 
 ## 🚀 About Me
 
