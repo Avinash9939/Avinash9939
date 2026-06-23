@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet)
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
 <h3 align="center">Data Analyst | Data Scientist | AI Engineer</h3>
 
