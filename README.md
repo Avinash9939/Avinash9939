@@ -1,14 +1,12 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,100:7c3aed&text=AVINASH%20VERMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
 <div align="center">
 
-# AVINASH VERMA
+### Data Science Student • Aspiring Data Analyst • Machine Learning Enthusiast
 
-### Data Science Student • Data Analyst • Machine Learning Enthusiast
-
-<br>
-
-🚀 **Turning Data Into Actionable Insights**
-
-<br>
+🚀 Turning Data Into Actionable Insights
 
 ![](https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge)
 
@@ -20,14 +18,9 @@
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Avinash9939">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
-
 ## 🛠 Tech Stack
 
 <p align="center">
