@@ -22,11 +22,14 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github" />
 </p>
 
 <p align="center">
-📊 Power BI | 📈 Excel | 🤖 Machine Learning | 🧠 Data Science
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 
