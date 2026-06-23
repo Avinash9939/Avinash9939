@@ -1,14 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:7c3aed&text=AVINASH%20VERMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
+
 <h6 align="center">Data Science Student • Aspiring Data Analyst • Machine Learning Enthusiast</h6>
 
 <p align="center">
-🚀 Turning Data Into Actionable Insights
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=🚀+Turning+Data+Into+Actionable+Insights" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -20,7 +21,6 @@
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
 ---
 ## 🛠 Tech Stack
 
