@@ -66,7 +66,7 @@ avinash = {
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="300"/>
 
 </td>
 </tr>
