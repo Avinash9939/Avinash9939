@@ -172,10 +172,49 @@ avinash = {
 <img src="https://img.shields.io/badge/MEDIUM-83-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HARD-28-red?style=for-the-badge"/>
 </p>
-## 📫 Connect With Me
+---
 
-📧 Email: akkumar1082004@gmail.com
+# 🤝 Let's Connect!
 
-💼 LinkedIn: https://www.linkedin.com/in/avinashverma108/
+<div align="center">
 
-🌐 Portfolio: Coming Soon sahi h n pura
+### 🟢 Open to Data Analyst | Data Science | Machine Learning Opportunities
+
+**B.Tech CSE (Data Science) • LPU • 180+ LeetCode Problems • Power BI & SQL Enthusiast**
+
+*"Turning raw data into meaningful insights and business decisions."*
+
+<br>
+
+<a href="https://www.linkedin.com/in/avinashverma108/">
+<img src="https://img.shields.io/badge/LINKEDIN-AVINASH%20VERMA-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Avinash9939">
+<img src="https://img.shields.io/badge/GITHUB-AVINASH9939-181717?style=for-the-badge"/>
+</a>
+
+<a href="mailto:akkumar1082004@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/5dy9SXIeMk/">
+<img src="https://img.shields.io/badge/LEETCODE-180%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Avinash9939">
+<img src="https://img.shields.io/badge/PROJECTS-4%2B-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Avinash9939">
+<img src="https://img.shields.io/badge/GITHUB%20PROFILE-VISIT%20NOW-8A2BE2?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+⭐ **If you like my projects, don't forget to star my repositories!** ⭐
+
+</div>
+
