@@ -31,10 +31,14 @@
 </a>
 
 </p>
-## 🧠 Who Am I?
 
 ## 🧠 Who Am I?
 
+<table>
+<tr>
+<td width="60%">
+
+```python
 avinash = {
     "name": "Avinash Verma",
     "based_in": "Bihar, India 🇮🇳",
@@ -56,8 +60,17 @@ avinash = {
     "leetcode": "180+ Problems Solved 🔥",
     "status": "🟢 Open to Opportunities"
 }
+```
 
+</td>
 
+<td width="40%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠 Tech Stack
 
