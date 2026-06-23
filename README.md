@@ -9,19 +9,28 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avinash9939&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Avinash9939&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/avinashverma108/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Avinash9939">
+<img src="https://img.shields.io/badge/GITHUB-VISIT-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/u/5dy9SXIeMk/">
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:akkumar1082004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-HIRE_ME-FF4B4B?style=for-the-badge"/>
 </a>
+
 </p>
----
 ## 🛠 Tech Stack
 
 <p align="center">
