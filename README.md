@@ -123,13 +123,34 @@ avinash = {
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinash9939&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight)
+<img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-106-7C3AED?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-11+-7C3AED?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-1%20YEAR-7C3AED?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/PROJECTS-10-7C3AED?style=for-the-badge&logo=github"/>
 
----
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-EXPERT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER%20BI-ADVANCED-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-ADVANCED-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-INTERMEDIATE-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENAI-INTERMEDIATE-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Avinash9939&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ## 🏆 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma&ext=heatmap)
