@@ -76,7 +76,7 @@ avinash = {
 
 ## 🛠 Skills
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -84,7 +84,7 @@ avinash = {
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### 📊 Data Science & ML
+<h3 align="center">📊 Data Science & ML</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -94,7 +94,7 @@ avinash = {
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
 </p>
 
-### 🧰 Tools
+<h3 align="center">🧰 Tools</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
