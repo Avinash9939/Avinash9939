@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:7c3aed&text=AVINASH%20VERMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:7c3aed&text=AVINASH%20VERMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
+
+<div align="center">
 
 <div align="center">
 
