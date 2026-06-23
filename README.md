@@ -72,9 +72,9 @@ Power BI | Excel | Git | GitHub | Jupyter Notebook
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight)
 
 ---
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Profile
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma)](https://leetcode.com/u/5dy9SXIeMk/)
 
 ## 📫 Connect With Me
 
