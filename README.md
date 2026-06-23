@@ -19,6 +19,16 @@
 🌱 Building real-world Data Science Projects
 
 ---
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github,vscode" />
+</p>
+
+<p align="center">
+📊 Power BI | 📈 Excel | 🤖 Machine Learning | 🧠 Data Science
+</p>
+
 
 ## 🛠️ Skills
 
