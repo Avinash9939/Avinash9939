@@ -66,7 +66,7 @@ avinash = {
 
 <td width="40%">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200"/>
 
 </td>
 </tr>
