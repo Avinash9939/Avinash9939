@@ -151,14 +151,21 @@ avinash = {
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash9939&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-## 🏆 LeetCode
+## 🏆 LeetCode Journey
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/5dy9SXIeMk?theme=dark&font=Karma&ext=contest,heatmap" />
+</p>
 
-🔥 180+ Problems Solved  
-🏅 100 Days Badge 2026  
-⚡ Max Streak: 85 Days
+<p align="center">
 
+<img src="https://img.shields.io/badge/PROBLEMS%20SOLVED-180+-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MAX%20STREAK-85%20DAYS-FF6D00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BADGE-100%20DAYS%202026-7C3AED?style=for-the-badge"/>
+
+</p>
 ## 📫 Connect With Me
 
 📧 Email: akkumar1082004@gmail.com
