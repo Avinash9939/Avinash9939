@@ -228,7 +228,7 @@ Most analysts get clean data. I started with 4,569 rows of corrupted BMW records
 <img src="https://img.shields.io/badge/Plotly-1F2937?style=flat-square" />
 <img src="https://img.shields.io/badge/Excel-1F2937?style=flat-square" />
 <br><br>
-<a href="#">📁 GitHub</a>
+<a href="https://github.com/Avinash9939/BMW_Global_Sales_Analysis-main">📁 GitHub</a>
 
 <br><br>
 
