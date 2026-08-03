@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <style>
+      /* Smooth Floating Animation */
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-15px); }
+      }
+      
+      /* Glowing Screen & Nodes */
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 10px #7C3AED); }
+        50% { filter: drop-shadow(0 0 25px #7C3AED); }
+      }
+      
+      /* Smooth Gear Spin */
+      @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      
+      /* Expressive Blinking Eyes */
+      @keyframes blink {
+        0%, 95% { opacity: 1; }
+        98% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      
+      /* Typing Hands (Subtle motion) */
+      @keyframes typing {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(3px) rotate(-2deg); }
+      }
+      @keyframes typingRight {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(3px) rotate(2deg); }
+      }
+
+      .floating { animation: float 4s ease-in-out infinite; }
+      .laptop-glow { animation: glow 2s ease-in-out infinite; }
+      .gear { animation: spin 10s linear infinite; transform-origin: center; }
+      .eye { animation: blink 4s infinite; }
+      .hand-left { animation: typing 0.3s ease-in-out infinite alternate; transform-origin: top; }
+      .hand-right { animation: typingRight 0.25s ease-in-out infinite alternate; transform-origin: top; }
+    </style>
+  </defs>
+
+  <!-- Blue-Purple Background Radial Glow -->
+  <circle cx="250" cy="250" r="180" fill="#7C3AED" opacity="0.1" class="laptop-glow"/>
+
+  <!-- Main Floating Scene Container -->
+  <g class="floating">
+    <!-- Sleek Minimalist Desk -->
+    <rect x="100" y="380" width="300" height="12" rx="4" fill="#30363d"/>
+    <rect x="120" y="392" width="16" height="70" fill="#30363d"/>
+    <rect x="364" y="392" width="16" height="70" fill="#30363d"/>
+    
+    <!-- Monitor Base & Body -->
+    <rect x="230" y="350" width="40" height="30" fill="#4b5563"/>
+    <rect x="150" y="240" width="200" height="120" rx="10" fill="#1f2937" stroke="#4b5563" stroke-width="4"/>
+    
+    <!-- Laptop Screen Glow (Inner Screen) -->
+    <rect x="160" y="250" width="180" height="100" rx="4" fill="#0d1117" class="laptop-glow"/>
+    
+    <!-- Keyboard/Laptop Base -->
+    <path d="M120 370 h260 v8 a6 6 0 0 1 -6 6 h-248 a6 6 0 0 1 -6 -6 z" fill="#8b949e" stroke="#4b5563" stroke-width="2"/>
+    
+    <!-- Code Lines on Monitor -->
+    <rect x="175" y="265" width="100" height="6" rx="3" fill="#7C3AED"/>
+    <rect x="175" y="280" width="130" height="6" rx="3" fill="#3fb950"/>
+    <rect x="175" y="295" width="80" height="6" rx="3" fill="#58a6ff"/>
+    <rect x="175" y="310" width="110" height="6" rx="3" fill="#8b949e"/>
+    <rect x="175" y="330" width="50" height="6" rx="3" fill="#7C3AED"/>
+    
+    <!-- Programmer Body (Wearing Tech Vest) -->
+    <path d="M210 230 Q250 200 290 230 L320 380 L180 380 Z" fill="#7C3AED" stroke="#58a6ff" stroke-width="2"/>
+    
+    <!-- Programmer Head -->
+    <circle cx="250" cy="180" r="40" fill="#fca5a5" />
+    
+    <!-- Hair -->
+    <path d="M 210 180 Q 250 120 290 180 Q 290 150 250 140 Q 210 150 210 180" fill="#1f2937" />
+
+    <!-- Blinking Eyes -->
+    <g class="eye">
+      <circle cx="230" cy="175" r="5" fill="#0d1117" />
+      <circle cx="270" cy="175" r="5" fill="#0d1117" />
+    </g>
+    
+    <!-- Modern Tech Glasses -->
+    <rect x="215" y="165" width="26" height="14" rx="3" fill="rgba(88,166,255,0.2)" stroke="#30363d" stroke-width="3"/>
+    <rect x="259" y="165" width="26" height="14" rx="3" fill="rgba(88,166,255,0.2)" stroke="#30363d" stroke-width="3"/>
+    <line x1="241" y1="172" x2="259" y2="172" stroke="#30363d" stroke-width="3"/>
+    
+    <!-- Typing Hands (Animated) -->
+    <path d="M 220 300 Q 240 330 230 365" stroke="#fca5a5" stroke-width="14" stroke-linecap="round" fill="none" class="hand-left"/>
+    <path d="M 280 300 Q 260 330 270 365" stroke="#fca5a5" stroke-width="14" stroke-linecap="round" fill="none" class="hand-right"/>
+  </g>
+
+  <!-- Floating Particles & AI Nodes -->
+  <g class="floating" style="animation-delay: -1s;">
+    <circle cx="80" cy="180" r="12" fill="#58a6ff" class="laptop-glow"/>
+    <line x1="80" y1="180" x2="130" y2="120" stroke="#58a6ff" stroke-width="2" opacity="0.6"/>
+    <circle cx="130" cy="120" r="8" fill="#3fb950" class="laptop-glow"/>
+    <line x1="130" y1="120" x2="170" y2="150" stroke="#3fb950" stroke-width="2" opacity="0.6"/>
+    <circle cx="170" cy="150" r="5" fill="#fca5a5"/>
+  </g>
+  
+  <g class="floating" style="animation-delay: -2.5s;">
+    <circle cx="420" cy="200" r="14" fill="#ff7b72" class="laptop-glow"/>
+    <line x1="420" y1="200" x2="370" y2="140" stroke="#ff7b72" stroke-width="2" opacity="0.6"/>
+    <circle cx="370" cy="140" r="9" fill="#d2a8ff" class="laptop-glow"/>
+  </g>
+
+  <!-- Smooth Rotating Tech Gears Layer -->
+  <g transform="translate(70, 300) scale(0.65)">
+    <g class="gear">
+      <circle cx="0" cy="0" r="40" fill="none" stroke="#8b949e" stroke-width="12"/>
+      <line x1="-50" y1="0" x2="50" y2="0" stroke="#8b949e" stroke-width="12"/>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke="#8b949e" stroke-width="12"/>
+      <line x1="-35" y1="-35" x2="35" y2="35" stroke="#8b949e" stroke-width="12"/>
+      <line x1="-35" y1="35" x2="35" y2="-35" stroke="#8b949e" stroke-width="12"/>
+      <circle cx="0" cy="0" r="25" fill="#0d1117"/>
+    </g>
+  </g>
+  
+  <g transform="translate(440, 360) scale(0.45)">
+    <g class="gear" style="animation-direction: reverse; animation-duration: 6s;">
+      <circle cx="0" cy="0" r="40" fill="none" stroke="#58a6ff" stroke-width="12"/>
+      <line x1="-50" y1="0" x2="50" y2="0" stroke="#58a6ff" stroke-width="12"/>
+      <line x1="0" y1="-50" x2="0" y2="50" stroke="#58a6ff" stroke-width="12"/>
+      <line x1="-35" y1="-35" x2="35" y2="35" stroke="#58a6ff" stroke-width="12"/>
+      <line x1="-35" y1="35" x2="35" y2="-35" stroke="#58a6ff" stroke-width="12"/>
+      <circle cx="0" cy="0" r="25" fill="#0d1117"/>
+    </g>
+  </g>
+</svg>
